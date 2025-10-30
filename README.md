@@ -50,16 +50,24 @@ Desenvolvedores podem conectar o front com qualquer API REST, Node, Spring, etc.
 # Como Rodar o Projeto
 
 ### Clonar o repositório
+```bash 
 git clone url-do-repo
+```
 
 ### Acessar a pasta
+```bash 
 cd devclub-cadastro-usuarios
+```
 
 ### Instale as dependências
+```bash 
 npm install
+```
 
 ### Rodar o app
+```bash 
 npm run dev
+```
 
 # Possível Integração com Backend
 Para conectar este frontend a um backend, basta:
