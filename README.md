@@ -50,7 +50,7 @@ Desenvolvedores podem conectar o front com qualquer API REST, Node, Spring, etc.
 # Como Rodar o Projeto
 
 ### Clonar o repositório
-git clone <url-do-repo>
+git clone url-do-repo
 
 ### Acessar a pasta
 cd devclub-cadastro-usuarios
