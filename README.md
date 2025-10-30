@@ -55,6 +55,7 @@ git clone url-do-repo
 ### Acessar a pasta
 cd devclub-cadastro-usuarios
 
+### Instale as de dependências
 npm install
 
 ### Rodar o app
