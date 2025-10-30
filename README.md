@@ -72,13 +72,13 @@ Para conectar este frontend a um backend, basta:
 
 2. Usar axios no React para consumir as rotas:
 
-bash ´´´
+```bash 
 npm install axios
-´´´
+```
 
-bash ´´´
+```bash 
 import axios from "axios"; 
-´´´
+```
 
 # Observações
 
