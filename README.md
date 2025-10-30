@@ -6,21 +6,29 @@ Este projeto é um frontend pronto em React, desenvolvido como base para integra
 A interface permite listar, adicionar e remover usuários, funcionando apenas com estado local, mas facilmente adaptável para consumir APIs externas.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-### Estrutura do Projeto
+# Estrutura do Projeto
 
 src/
  ├── assets/
+ 
  │   └── img/
+ 
  │       └── delete.png       # ícone de deletar usuário
+ 
  ├── pages/
+ 
  │   └── Home/
+ 
  │       ├── index.jsx        # componente principal (tela inicial)
+ 
  │       └── style.css        # estilos da página
+ 
  ├── index.css                # estilos globais
+ 
  └── main.jsx                 # ponto de entrada da aplicação
 
 
-### Funcionalidades
+# Funcionalidades
 
 - Cadastrar usuário (nome, idade e e-mail)
 - Deletar usuário
@@ -32,7 +40,7 @@ Este projeto não possui backend integrado.
 Os dados dele estão integrados em uma constante.
 Desenvolvedores podem conectar o front com qualquer API REST, Node, Spring, etc.
 
-### Tecnologias
+# Tecnologias
 
 - React
 - JavaScript (ES6+)
